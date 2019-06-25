@@ -1,4 +1,4 @@
-## use this command to clone##
+## use this command to clone ##
 
 `git clone --recurse-submodules https://github.com/voloyev/cors_app.git`
 
